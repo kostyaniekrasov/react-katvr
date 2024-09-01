@@ -12,13 +12,13 @@ function Footer() {
       <div className="max-w-custom container mx-auto px-5 py-14 md:px-8 md:py-6 xl:px-28">
         {isMobile && (
           <img
-            src="/img/Logo-mobile.svg"
+            src="./img/Logo-mobile.svg"
             className="mb-4 h-3 w-16"
             alt="Logo"
           />
         )}
         <div className="Footer__links flex justify-between">
-          {isTablet && <img src="/img/Logo.svg" className="mb-4" alt="Logo" />}
+          {isTablet && <img src="./img/Logo.svg" className="mb-4" alt="Logo" />}
           <div className="links flex flex-col gap-4 md:flex-row md:gap-11">
             <Link
               to="about"

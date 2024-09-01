@@ -12,7 +12,7 @@ function LanguageScreen({ closeMenu }) {
       )}
     >
       <div className="control mb-6 flex justify-between px-5">
-        <img className="cursor-pointer" src="/img/back.svg" alt="back" />
+        <img className="cursor-pointer" src="./img/back.svg" alt="back" />
       </div>
     </div>
   );

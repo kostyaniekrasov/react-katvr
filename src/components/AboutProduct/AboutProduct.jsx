@@ -94,15 +94,15 @@ function AboutProduct() {
           </div>
           {!isDesktop && (
             <img
-              src="/img/tablets/about.svg"
+              src="./img/tablets/about.svg"
               alt=""
               className="hidden md:block"
             />
           )}
           {isDesktop && !isLarge && (
-            <img src="/img/desktop/about-us.svg" alt="" />
+            <img src="./img/desktop/about-us.svg" alt="" />
           )}
-          {isLarge && <img src="/img/desktop/about-us-xl.svg" alt="" />}
+          {isLarge && <img src="./img/desktop/about-us-xl.svg" alt="" />}
         </div>
       </div>
     </div>

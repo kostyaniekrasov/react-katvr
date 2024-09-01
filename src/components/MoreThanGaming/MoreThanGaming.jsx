@@ -35,7 +35,7 @@ function MoreThanGaming() {
             <div className="text-block__section flex flex-col gap-3 md:items-center">
               <img
                 className="object-fit-contain mb-7 hidden md:block"
-                src="/img/tablets/real-estate.svg"
+                src="./img/tablets/real-estate.svg"
                 alt="education"
                 width="70"
                 height="82"
@@ -48,7 +48,7 @@ function MoreThanGaming() {
             <div className="text-block__section flex flex-col gap-3 md:items-center">
               <img
                 className="object-fit-contain mb-7 hidden md:block"
-                src="/img/tablets/fitness.svg"
+                src="./img/tablets/fitness.svg"
                 alt="education"
                 width="112"
                 height="82"
@@ -59,7 +59,7 @@ function MoreThanGaming() {
             <div className="text-block__section flex flex-col gap-3 md:items-center">
               <img
                 className="object-fit-contain mb-7 hidden md:block"
-                src="/img/tablets/social.svg"
+                src="./img/tablets/social.svg"
                 alt="education"
                 width="84"
                 height="83"

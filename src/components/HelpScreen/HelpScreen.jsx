@@ -30,7 +30,7 @@ function HelpScreen({ closeScreen }) {
       >
         <div className="mb-6 flex justify-end">
           <button onClick={closeScreen}>
-            <img src="/img/close.svg" className="cursor-pointer" alt="close" />
+            <img src="./img/close.svg" className="cursor-pointer" alt="close" />
           </button>
         </div>
         <h3 className="mb-8 inline-block text-xl font-black text-white">

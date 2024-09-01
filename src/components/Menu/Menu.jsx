@@ -161,7 +161,7 @@ function Menu({ showMenu, closeMenu }) {
                 className={classNames('cursor-pointer', {
                   hidden: !showLanguageScreen,
                 })}
-                src="/img/back.svg"
+                src="./img/back.svg"
                 alt="back"
               />
             </button>
@@ -178,7 +178,7 @@ function Menu({ showMenu, closeMenu }) {
                 className={classNames('cursor-pointer', {
                   hidden: showLanguageScreen,
                 })}
-                src="/img/Close.svg"
+                src="./img/Close.svg"
                 alt="close"
               />
             </button>

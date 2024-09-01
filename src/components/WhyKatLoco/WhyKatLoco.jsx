@@ -16,7 +16,7 @@ function WhyKatLoco() {
         <div className="WhyKatLoco__text-block flex flex-col gap-5 md:flex-row xl:mb-20">
           <div className="text-block__section flex max-w-80 flex-col gap-6 md:items-center">
             <img
-              src="/img/tablets/universally-compatible.svg"
+              src="./img/tablets/universally-compatible.svg"
               className="hidden md:block"
               alt=""
               width="82"
@@ -27,7 +27,7 @@ function WhyKatLoco() {
           </div>
           <div className="text-block__section flex max-w-80 flex-col gap-6 md:items-center">
             <img
-              src="/img/tablets/control-panel.svg"
+              src="./img/tablets/control-panel.svg"
               className="hidden md:block"
               alt=""
               width="90"
@@ -38,7 +38,7 @@ function WhyKatLoco() {
           </div>
           <div className="text-block__section flex max-w-80 flex-col gap-6 md:items-center">
             <img
-              src="/img/tablets/wireless-sensor.svg"
+              src="./img/tablets/wireless-sensor.svg"
               className="hidden md:block"
               alt=""
               width="112.57"

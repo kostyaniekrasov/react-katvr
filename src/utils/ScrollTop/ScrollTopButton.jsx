@@ -29,7 +29,7 @@ export const ScrollTopButton = () => {
   return (
     <button onClick={scrollToTop}>
       <img
-        src="/img/tablets/button-top.svg"
+        src="./img/tablets/button-top.svg"
         className={classNames(
           'fixed bottom-20 right-32 cursor-pointer duration-300 hover:scale-110',
           {

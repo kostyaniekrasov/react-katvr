@@ -61,7 +61,7 @@ function TechSpecs() {
               <>
                 <div className="absolute -left-64 -top-12">
                   <img
-                    src="/img/lines/sensor-line.svg"
+                    src="./img/lines/sensor-line.svg"
                     alt="line"
                     width="398.5"
                     height="69"
@@ -70,18 +70,18 @@ function TechSpecs() {
 
                 <img
                   className="absolute -top-14 left-36"
-                  src="/img/lines/batterries-line.svg"
+                  src="./img/lines/batterries-line.svg"
                   alt=""
                 />
 
                 <img
                   className="absolute -left-4 top-1/2 -translate-y-1/2"
-                  src="/img/lines/connection-line-2.svg"
+                  src="./img/lines/connection-line-2.svg"
                   alt=""
                 />
                 <img
                   className="absolute -left-36 top-20"
-                  src="/img/lines/connection-line.svg"
+                  src="./img/lines/connection-line.svg"
                   alt=""
                 />
               </>
