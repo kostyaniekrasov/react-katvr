@@ -1,0 +1,12 @@
+@import '../utils/mixins';
+
+.button {
+  background-color: #05c2df;
+  border-radius: 4px;
+  height: 48px;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+
+  @include hover(background-color #fff, color #05c2df);
+}

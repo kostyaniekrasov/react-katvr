@@ -1,0 +1,22 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 80,
+  "tabWidth": 2,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "overrides": [
+    {
+      "files": "*.tsx",
+      "options": {
+        "printWidth": 80
+      }
+    },
+    {
+      "files": "*.jsx",
+      "options": {
+        "printWidth": 80
+      }
+    }
+  ]
+}

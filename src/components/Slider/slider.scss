@@ -1,0 +1,56 @@
+@import '../../utils/mixins';
+
+.slick-prev,
+.slick-next {
+  background-color: #333;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  z-index: 1000;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  color: #fff;
+  font-size: 20px;
+}
+
+.slick-dots li {
+  width: 4px;
+  height: 4px;
+  margin-right: 6px;
+}
+
+.slick-dots li button::before {
+  opacity: 1;
+  width: 4px;
+  height: 4px;
+  font-size: 6px;
+  color: #484848;
+}
+
+.slick-dots li.slick-active button::before {
+  opacity: 1;
+  color: #ababab;
+}
+
+.custom-dots {
+  width: 100%;
+}
+
+.custom-dot {
+  height: 3px;
+  width: 69px;
+  background-color: #212121;
+  cursor: pointer;
+
+  &--active {
+    background-color: #05c2df;
+  }
+}
+
+.slider-max-h {
+  @media (min-width: 1536px) {
+    height: 480px;
+  }
+}

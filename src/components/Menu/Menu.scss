@@ -1,0 +1,20 @@
+@import '../../utils/mixins';
+
+.Menu {
+  background-color: #191536;
+  overflow: hidden;
+  @media (min-width: 768px) {
+    background-color: #000000b2;
+  }
+
+  &__block {
+    background-color: #191536;
+    height: 568px;
+  }
+}
+
+.nav {
+  &__link {
+    @include hover(color #05c2df, background-color #110e25);
+  }
+}

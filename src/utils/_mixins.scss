@@ -1,0 +1,8 @@
+@mixin hover($properties...) {
+  @each $property, $value in $properties {
+    transition: all 0.3s;
+    &:hover {
+      #{$property}: $value;
+    }
+  }
+}

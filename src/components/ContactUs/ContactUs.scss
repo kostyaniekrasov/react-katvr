@@ -1,0 +1,73 @@
+@import '../../utils/mixins';
+
+.input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #2f2f2f;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 6px 0;
+  color: #929292;
+  width: 100%;
+  transition: all 0.3s;
+
+  &__block {
+    &:hover {
+      .input--label {
+        color: #05c2df;
+      }
+    }
+
+    &:focus-within {
+      .input--label {
+        color: #05c2df;
+      }
+    }
+
+    &--error {
+      .input--label {
+        color: #860404;
+      }
+
+      .input {
+        color: #860404;
+        border-color: #860404;
+      }
+    }
+  }
+
+  &--label {
+    transition: all 0.3s;
+
+    color: #929292;
+    font-size: 14px;
+    font-weight: 400;
+
+    &--error {
+      color: #860404;
+    }
+  }
+
+  &:focus {
+    outline: none;
+    color: #fff;
+    border-color: #05c2df;
+  }
+
+  @include hover(color #fff, border-color #05c2df);
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px #05040b inset !important;
+  -webkit-text-fill-color: #fff !important;
+}
+
+input:-moz-autofill {
+  box-shadow: 0 0 0 1000px #05040b inset !important;
+  -moz-text-fill-color: #fff !important;
+}
+
+input:-ms-autofill {
+  box-shadow: 0 0 0 1000px #05040b inset !important;
+  -ms-text-fill-color: #fff !important;
+}

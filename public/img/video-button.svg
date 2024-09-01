@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<svg width="248" height="69" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m51,7c-4.88,-3.41 -10.09,-4.65 -16,-5c-5.91,-0.35 -11.44,1 -16.68,3.81c-5.24,2.81 -9.62,7.02 -12.67,12.18c-3.06,5.16 -4.66,11.07 -4.65,17.09c0.01,6.02 1.65,11.92 4.73,17.07c3.07,5.14 7.48,9.33 12.73,12.11c5.25,2.79 11.16,4.06 17.07,3.67c5.91,-0.38 11.61,-2.49 16.47,-5.93" id="svg_2" opacity="0.45" stroke="#05C2DF" stroke-miterlimit="1.52" stroke-width="2"/>
+  <path d="m34.03,61.16c14.59,0 26.41,-11.8 26.41,-26.34c0,-14.54 -11.82,-26.33 -26.41,-26.33c-14.59,0 -26.41,11.79 -26.41,26.33c0,14.54 11.82,26.34 26.41,26.34z" id="svg_3" stroke="#05C2DF" stroke-miterlimit="10"/>
+  <path d="m86,12l-30,0l0,2l30,0l0,-2z" fill="#05C2DF" id="svg_4" opacity="0.45"/>
+  <path d="m86,56l-30,0l0,2l30,0l0,-2z" fill="#05C2DF" id="svg_5" opacity="0.45"/>
+  <path d="m45,35l-17.25,10.39l0,-20.78l17.25,10.39z" fill="#05C2DF" id="svg_6"/>
+  <path d="m91,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_7" opacity="0.45"/>
+  <path d="m88,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_8" opacity="0.45"/>
+  <path d="m94,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_9" opacity="0.45"/>
+  <path d="m97,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_10" opacity="0.45"/>
+  <path d="m100,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_11" opacity="0.45"/>
+  <path d="m104,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_12" opacity="0.45"/>
+  <path d="m108,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_13" opacity="0.45"/>
+  <path d="m112,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_14" opacity="0.45"/>
+  <path d="m117,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_15" opacity="0.45"/>
+  <path d="m122,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_16" opacity="0.45"/>
+  <path d="m127,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_17" opacity="0.45"/>
+  <path d="m132,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_18" opacity="0.45"/>
+  <path d="m137,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_19" opacity="0.45"/>
+  <path d="m142,12l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_20" opacity="0.45"/>
+  <path d="m153.6,12.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_21" opacity="0.45"/>
+  <path d="m159.6,12.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_22" opacity="0.45"/>
+  <path d="m165.6,12.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_23" opacity="0.45"/>
+  <path d="m171.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_24" opacity="0.45"/>
+  <path d="m178.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_25" opacity="0.45"/>
+  <path d="m185.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_26" opacity="0.45"/>
+  <path d="m192.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_27" opacity="0.45"/>
+  <path d="m200.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_28" opacity="0.45"/>
+  <path d="m209.3,12.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_29" opacity="0.45"/>
+  <path d="m147.6,12.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_30" opacity="0.45"/>
+  <path d="m248,12.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_31" opacity="0.45"/>
+  <path d="m234,12.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_32" opacity="0.45"/>
+  <path d="m221,12.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_33" opacity="0.45"/>
+  <path d="m91,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_34" opacity="0.45"/>
+  <path d="m88,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_35" opacity="0.45"/>
+  <path d="m94,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_36" opacity="0.45"/>
+  <path d="m97,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_37" opacity="0.45"/>
+  <path d="m100,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_38" opacity="0.45"/>
+  <path d="m104,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_39" opacity="0.45"/>
+  <path d="m108,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_40" opacity="0.45"/>
+  <path d="m112,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_41" opacity="0.45"/>
+  <path d="m117,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_42" opacity="0.45"/>
+  <path d="m122,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_43" opacity="0.45"/>
+  <path d="m127,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_44" opacity="0.45"/>
+  <path d="m132,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_45" opacity="0.45"/>
+  <path d="m137,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_46" opacity="0.45"/>
+  <path d="m142,56l-2,0l0,2l2,0l0,-2z" fill="#05C2DF" id="svg_47" opacity="0.45"/>
+  <path d="m153.6,56.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_48" opacity="0.45"/>
+  <path d="m159.6,56.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_49" opacity="0.45"/>
+  <path d="m165.6,56.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_50" opacity="0.45"/>
+  <path d="m171.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_51" opacity="0.45"/>
+  <path d="m178.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_52" opacity="0.45"/>
+  <path d="m185.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_53" opacity="0.45"/>
+  <path d="m192.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_54" opacity="0.45"/>
+  <path d="m200.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_55" opacity="0.45"/>
+  <path d="m209.3,56.43l-1.3,0l0,1.3l1.3,0l0,-1.3z" fill="#05C2DF" id="svg_56" opacity="0.45"/>
+  <path d="m147.6,56.23l-1.6,0l0,1.6l1.6,0l0,-1.6z" fill="#05C2DF" id="svg_57" opacity="0.45"/>
+  <path d="m248,56.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_58" opacity="0.45"/>
+  <path d="m234,56.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_59" opacity="0.45"/>
+  <path d="m221,56.5l-1,0l0,1l1,0l0,-1z" fill="#05C2DF" id="svg_60" opacity="0.45"/>
+ </g>
+</svg>

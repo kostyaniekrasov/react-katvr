@@ -1,0 +1,20 @@
+@import '../mixins';
+
+.video-button {
+  display: flex;
+  background-image: url(../../../public/img/video-button.svg);
+  align-items: center;
+  padding-left: 100px;
+  font-weight: 500;
+  background-size: contain;
+  width: 250px;
+
+  background-repeat: no-repeat;
+  height: 66px;
+  cursor: pointer;
+
+  @include hover(
+    background-image url(../../../public/img/video-button-hover.svg),
+    color #05c2df
+  );
+}
