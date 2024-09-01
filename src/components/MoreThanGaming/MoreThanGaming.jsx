@@ -24,7 +24,7 @@ function MoreThanGaming() {
             <div className="text-block__section flex flex-col gap-3 md:items-center">
               <img
                 className="object-fit-contain mb-7 hidden md:block"
-                src="/img/tablets/education.svg"
+                src="./img/tablets/education.svg"
                 alt="education"
                 width="101"
                 height="83"
