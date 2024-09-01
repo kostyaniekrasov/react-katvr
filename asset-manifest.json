@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-katvr/static/css/main.794b60e5.css",
-    "main.js": "/react-katvr/static/js/main.26288485.js",
+    "main.js": "/react-katvr/static/js/main.28ec2cfe.js",
     "static/js/453.318c8fda.chunk.js": "/react-katvr/static/js/453.318c8fda.chunk.js",
     "static/media/video-button.svg": "/react-katvr/static/media/video-button.3288972ee61ee6f47db0.svg",
     "static/media/video-button-hover.svg": "/react-katvr/static/media/video-button-hover.659fa19f00f8b34a25ea.svg",
@@ -12,11 +12,11 @@
     "index.html": "/react-katvr/index.html",
     "static/media/triangle.svg": "/react-katvr/static/media/triangle.2ddb197524555e977eaf.svg",
     "main.794b60e5.css.map": "/react-katvr/static/css/main.794b60e5.css.map",
-    "main.26288485.js.map": "/react-katvr/static/js/main.26288485.js.map",
+    "main.28ec2cfe.js.map": "/react-katvr/static/js/main.28ec2cfe.js.map",
     "453.318c8fda.chunk.js.map": "/react-katvr/static/js/453.318c8fda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.794b60e5.css",
-    "static/js/main.26288485.js"
+    "static/js/main.28ec2cfe.js"
   ]
 }
