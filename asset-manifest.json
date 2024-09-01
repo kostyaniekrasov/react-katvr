@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2d1c42d.css",
-    "main.js": "/static/js/main.0848a564.js",
-    "static/js/453.318c8fda.chunk.js": "/static/js/453.318c8fda.chunk.js",
-    "static/media/video-button.svg": "/static/media/video-button.3288972ee61ee6f47db0.svg",
-    "static/media/video-button-hover.svg": "/static/media/video-button-hover.659fa19f00f8b34a25ea.svg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "static/media/triangle.svg": "/static/media/triangle.2ddb197524555e977eaf.svg",
-    "main.c2d1c42d.css.map": "/static/css/main.c2d1c42d.css.map",
-    "main.0848a564.js.map": "/static/js/main.0848a564.js.map",
-    "453.318c8fda.chunk.js.map": "/static/js/453.318c8fda.chunk.js.map"
+    "main.css": "/react-katvr/static/css/main.794b60e5.css",
+    "main.js": "/react-katvr/static/js/main.26288485.js",
+    "static/js/453.318c8fda.chunk.js": "/react-katvr/static/js/453.318c8fda.chunk.js",
+    "static/media/video-button.svg": "/react-katvr/static/media/video-button.3288972ee61ee6f47db0.svg",
+    "static/media/video-button-hover.svg": "/react-katvr/static/media/video-button-hover.659fa19f00f8b34a25ea.svg",
+    "static/media/slick.svg": "/react-katvr/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-katvr/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-katvr/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-katvr/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-katvr/index.html",
+    "static/media/triangle.svg": "/react-katvr/static/media/triangle.2ddb197524555e977eaf.svg",
+    "main.794b60e5.css.map": "/react-katvr/static/css/main.794b60e5.css.map",
+    "main.26288485.js.map": "/react-katvr/static/js/main.26288485.js.map",
+    "453.318c8fda.chunk.js.map": "/react-katvr/static/js/453.318c8fda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2d1c42d.css",
-    "static/js/main.0848a564.js"
+    "static/css/main.794b60e5.css",
+    "static/js/main.26288485.js"
   ]
 }
